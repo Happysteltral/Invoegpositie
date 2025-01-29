@@ -1,10 +1,10 @@
-35. Zoek Invoegpositie
+Zoek Invoegpositie
 Makkelijk
 Onderwerpen: Algoritmen
-Bedrijven:
 
 Gegeven een gesorteerde array met unieke gehele getallen en een doelwaarde (target), retourneer de index als de doelwaarde wordt gevonden. Als de doelwaarde niet in de array zit, retourneer dan de index waar deze zou worden ingevoegd om de volgorde te behouden.
 
+uitbreiding
 Je moet een algoritme schrijven met een tijdcomplexiteit van O(log n).
 
 Voorbeeld 1:
